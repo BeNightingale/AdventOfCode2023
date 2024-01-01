@@ -14,8 +14,10 @@ target/
 *.iml
 *.ipr
 
+DAY1/.idea/
 ### Eclipse ###
 .apt_generated
+out/*
 .classpath
 .factorypath
 .project
